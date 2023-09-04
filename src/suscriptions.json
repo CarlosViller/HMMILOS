@@ -42,6 +42,12 @@
     "color": "#cfcfcf"
   },
   {
+    "name": "Apple Music",
+    "price": 10.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Apple_Music_logo.png/600px-Apple_Music_logo.png?20220221060659",
+    "color": "#cfcfcf"
+  },
+  {
     "name": "YouTube Premium",
     "price": 9.99,
     "color": "#ff0000",
@@ -60,131 +66,16 @@
     "color": "#f4761c"
   },
   {
-    "name": "Discovery+",
-    "price": 4.99
-  },
-  {
     "name": "ESPN+",
-    "price": 6.99
-  },
-  {
-    "name": "Sling TV",
-    "price": 35.0
-  },
-  {
-    "name": "Crave",
-    "price": 9.99
-  },
-  {
-    "name": "FuboTV",
-    "price": 64.99
-  },
-  {
-    "name": "Shudder",
-    "price": 4.75
-  },
-  {
-    "name": "BritBox",
-    "price": 6.99
-  },
-  {
-    "name": "VRV",
-    "price": 9.99
-  },
-  {
-    "name": "DC Universe Infinite",
-    "price": 7.99
-  },
-  {
-    "name": "CuriosityStream",
-    "price": 2.99
-  },
-  {
-    "name": "Funimation",
-    "price": 5.99
-  },
-  {
-    "name": "Hulu + Live TV",
-    "price": 69.99
-  },
-  {
-    "name": "PBS Passport",
-    "price": 5.0
-  },
-  {
-    "name": "Tidal",
-    "price": 9.99
-  },
-  {
-    "name": "NBA League Pass",
-    "price": 28.99
-  },
-  {
-    "name": "CBS All Access",
-    "price": 5.99
-  },
-  {
-    "name": "Dazn",
-    "price": 19.99
-  },
-  {
-    "name": "MLB.TV",
-    "price": 24.99
-  },
-  {
-    "name": "NHL.TV",
-    "price": 24.99
-  },
-  {
-    "name": "Pandora Premium",
-    "price": 9.99
-  },
-  {
-    "name": "TuneIn Premium",
-    "price": 9.99
-  },
-  {
-    "name": "Viki",
-    "price": 4.99
-  },
-  {
-    "name": "DISH Network",
-    "price": 64.99
-  },
-  {
-    "name": "Showtime",
-    "price": 10.99
-  },
-  {
-    "name": "Acorn TV",
-    "price": 5.99
-  },
-  {
-    "name": "Cinemax",
-    "price": 9.99
-  },
-  {
-    "name": "Sundance Now",
-    "price": 6.99
-  },
-  {
-    "name": "HiDive",
-    "price": 4.99
+    "price": 6.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Espn%2B.png/170px-Espn%2B.png",
+    "color": "#ff0000"
+    
   },
   {
     "name": "Mubi",
-    "price": 10.99
-  },
-  {
-    "name": "Stitcher Premium",
-    "price": 4.99
-  },
-  {
-    "name": "Hallmark Movies Now",
-    "price": 5.99
-  },
-  {
-    "name": "Starz",
-    "price": 8.99
+    "price": 12.99,
+    "logo": "https://findvectorlogo.com/wp-content/uploads/2019/08/mubi-vector-logo.png",
+    "color": "#fff"
   }
 ]

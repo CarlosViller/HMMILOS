@@ -32,6 +32,7 @@
     border-radius: 5px;
     border: 2px solid #ffffffa6;
     padding: 8px;
+    cursor: pointer;
   }
 
   .service-btn img {
