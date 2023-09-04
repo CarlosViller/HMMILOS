@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Netflix",
+    "price": 8.99,
+    "color": "rgba(230, 2, 13)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/82px-Netflix_2015_N_logo.svg.png"
+  },
+  {
+    "name": "Amazon Prime Video",
+    "price": 12.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amazon_Prime_logo_%282022%29.svg/1920px-Amazon_Prime_logo_%282022%29.svg.png",
+    "color": "#00aae2"
+  },
+  {
+    "name": "Disney+",
+    "price": 7.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/3e/20220128173228%21Disney%2B_logo.svg/120px-Disney%2B_logo.svg.png",
+    "color": "#abe7ff"
+  },
+  {
+    "name": "Hulu",
+    "price": 5.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hulu_logo_%282014%29.svg/120px-Hulu_logo_%282014%29.svg.png?20201016084050",
+    "color": "#3abc3a"
+  },
+  {
+    "name": "HBO Max",
+    "price": 14.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/c/ce/20230413031451%21Max_logo.svg/120px-Max_logo.svg.png",
+    "color": "#0027e8"
+  },
+  {
+    "name": "Spotify",
+    "price": 9.99,
+    "color": "#18d860",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/120px-Spotify_logo_without_text.svg.png?20160123212544"
+  },
+  {
+    "name": "Apple TV+",
+    "price": 4.99,
+    "logo": "/appletvplus.webp",
+    "color": "#cfcfcf"
+  },
+  {
+    "name": "YouTube Premium",
+    "price": 9.99,
+    "color": "#ff0000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png"
+  },
+  {
+    "name": "Paramount+",
+    "price": 4.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount%2B_logo.svg/120px-Paramount%2B_logo.svg.png?20230821162313",
+    "color": "#0064ff"
+  },
+  {
+    "name": "Crunchyroll",
+    "price": 7.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Crunchyroll_logo_2018_vertical.png/108px-Crunchyroll_logo_2018_vertical.png?20200426091240",
+    "color": "#f4761c"
+  },
+  {
+    "name": "Discovery+",
+    "price": 4.99
+  },
+  {
+    "name": "ESPN+",
+    "price": 6.99
+  },
+  {
+    "name": "Sling TV",
+    "price": 35.0
+  },
+  {
+    "name": "Crave",
+    "price": 9.99
+  },
+  {
+    "name": "FuboTV",
+    "price": 64.99
+  },
+  {
+    "name": "Shudder",
+    "price": 4.75
+  },
+  {
+    "name": "BritBox",
+    "price": 6.99
+  },
+  {
+    "name": "VRV",
+    "price": 9.99
+  },
+  {
+    "name": "DC Universe Infinite",
+    "price": 7.99
+  },
+  {
+    "name": "CuriosityStream",
+    "price": 2.99
+  },
+  {
+    "name": "Funimation",
+    "price": 5.99
+  },
+  {
+    "name": "Hulu + Live TV",
+    "price": 69.99
+  },
+  {
+    "name": "PBS Passport",
+    "price": 5.0
+  },
+  {
+    "name": "Tidal",
+    "price": 9.99
+  },
+  {
+    "name": "NBA League Pass",
+    "price": 28.99
+  },
+  {
+    "name": "CBS All Access",
+    "price": 5.99
+  },
+  {
+    "name": "Dazn",
+    "price": 19.99
+  },
+  {
+    "name": "MLB.TV",
+    "price": 24.99
+  },
+  {
+    "name": "NHL.TV",
+    "price": 24.99
+  },
+  {
+    "name": "Pandora Premium",
+    "price": 9.99
+  },
+  {
+    "name": "TuneIn Premium",
+    "price": 9.99
+  },
+  {
+    "name": "Viki",
+    "price": 4.99
+  },
+  {
+    "name": "DISH Network",
+    "price": 64.99
+  },
+  {
+    "name": "Showtime",
+    "price": 10.99
+  },
+  {
+    "name": "Acorn TV",
+    "price": 5.99
+  },
+  {
+    "name": "Cinemax",
+    "price": 9.99
+  },
+  {
+    "name": "Sundance Now",
+    "price": 6.99
+  },
+  {
+    "name": "HiDive",
+    "price": 4.99
+  },
+  {
+    "name": "Mubi",
+    "price": 10.99
+  },
+  {
+    "name": "Stitcher Premium",
+    "price": 4.99
+  },
+  {
+    "name": "Hallmark Movies Now",
+    "price": 5.99
+  },
+  {
+    "name": "Starz",
+    "price": 8.99
+  }
+]
