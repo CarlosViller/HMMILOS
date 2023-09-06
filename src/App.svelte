@@ -13,7 +13,7 @@
 <main>
   <section id="intro">
     <h1 style="textAlign: center">
-      How much <span class="green-text">money</span> I'm losing on subscriptions
+      How much <span class="green-text">money</span> am I losing on subscriptions
       <span style="font-size: 1.5em">💸</span>
     </h1>
     <span class="lose-money green-text">{money}$ / mo</span>
