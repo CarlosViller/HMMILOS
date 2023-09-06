@@ -10,20 +10,43 @@
   let pressed = false;
 </script>
 
-<button
-  style={cssVarStyles}
-  class={`service-btn`}
-  class:pressed
-  on:click={() => {
-    const value = !pressed ? price : price * -1;
-    onClick(value);
-    pressed = !pressed;
-  }}
->
-  <img src={logo} alt={name} />
-</button>
+<article class="service-btn-container" style={cssVarStyles}>
+  <button
+    class={`service-btn`}
+    class:pressed
+    on:click={() => {
+      const value = !pressed ? price : price * -1;
+      onClick(value);
+      pressed = !pressed;
+    }}
+  >
+    <img src={logo} alt={name} />
+  </button>
+  <span class="service-name">{name}</span>
+</article>
 
 <style>
+  .service-btn-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 85px;
+  }
+
+  .service-name {
+    text-align: center;
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    opacity: 0;
+    transition: all 0.5s ease;
+    color: #fff;
+  }
+
+  .service-btn-container:hover .service-name {
+    opacity: 1;
+  }
+
   .service-btn {
     width: 75px;
     aspect-ratio: 1/1;

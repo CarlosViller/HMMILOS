@@ -55,16 +55,16 @@ h1 {
   align-items: start;
   display: flex;
   flex-wrap: wrap;
-  gap: 3em;
+  gap: 0.8em 3em;
   max-width: 90vw;
   margin: 4em auto 0;
-  padding-bottom: 100px;
+  margin-bottom: 75px;
 }
 
 footer {
   text-align: center;
   border-top: 2px solid #7da61a;
-  position: fixed;
+  position: relative;
   width: 100%;
   bottom: 0;
   padding: 0.5em 0;
@@ -101,8 +101,7 @@ footer img {
   background-color: #7da61a;
 }
 
-@media (max-width: 768px) {
-  main {
-    margin-bottom: 200px;
-  }
+main {
+  width: 90vw;
+  margin: 0 auto 100px;
 }
