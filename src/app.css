@@ -47,15 +47,17 @@ h1 {
 .lose-money {
   padding: 0em 1em;
   border: 2px solid #7da61a;
+  min-width: 250px;
+  text-align: center;
 }
-.button-container {
+.services-container {
   justify-content: center;
   align-items: start;
   display: flex;
   flex-wrap: wrap;
   gap: 3em;
   max-width: 90vw;
-  margin: 4em auto;
+  margin: 4em auto 0;
   padding-bottom: 100px;
 }
 
@@ -80,4 +82,27 @@ footer a#linkedIn {
 footer img {
   width: 25px;
   margin: 0 4px;
+}
+
+.btn-container {
+  text-align: center;
+}
+.button-action {
+  color: white;
+  padding: 10px 1em;
+  border: 2px solid #7da61a;
+  text-decoration: none;
+  font-size: 1.4em;
+  transition: all 0.3s ease;
+}
+
+.button-action:hover {
+  color: #fff;
+  background-color: #7da61a;
+}
+
+@media (max-width: 768px) {
+  main {
+    margin-bottom: 200px;
+  }
 }

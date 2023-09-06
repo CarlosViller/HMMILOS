@@ -70,12 +70,143 @@
     "price": 6.99,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Espn%2B.png/170px-Espn%2B.png",
     "color": "#ff0000"
-    
   },
   {
     "name": "Mubi",
     "price": 12.99,
     "logo": "https://findvectorlogo.com/wp-content/uploads/2019/08/mubi-vector-logo.png",
     "color": "#fff"
+  },
+  {
+    "name": "Audible",
+    "price": 7.95,
+    "logo": "https://play-lh.googleusercontent.com/Eu29897hEHRlKDZoPHByn9pHnXwEqM0LDvDhDSrin9C2EUSxvz94V5zvVjO2SBBNXQ",
+    "color": "#f79c23"
+  },
+  {
+    "name": "Figma Professional",
+    "price": 12,
+    "color": "#ff7262",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436"
+  },
+  {
+    "name": "X verified",
+    "price": 8,
+    "color": "#fff",
+    "logo": "https://static.designboom.com/wp-content/uploads/2023/07/twitter-logo-change-x-elon-musk-designboom-01.jpg"
+  },
+  {
+    "name": "LinkedIn Premium Career",
+    "price": 39.99,
+    "color": "#007fbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?20210220164014"
+  },
+  {
+    "name": "Photoshop",
+    "price": 20.99,
+    "color": "#31a8ff",
+    "logo": "https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg"
+  },
+  {
+    "name": "WOW",
+    "price": 14.99,
+    "color": "#fbe554",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/640px-WoW_icon.svg.png"
+  },
+  {
+    "name": "Fortnite",
+    "price": 9.5,
+    "color": "#77daf7",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/LOGOFORTNITE.jpg/640px-LOGOFORTNITE.jpg"
+  },
+  {
+    "name": "Excalidraw+",
+    "price": 7,
+    "color": "#fff",
+    "logo": "https://avatar-prod-us-east-2.webexcontent.com/Avtr~V1~2de41b4b-c986-4d60-a0c5-3e346c98de34/V1~14363c25c4230c54e02ae7416216600b0aee35b05c257a00152830492f4d581b~c5a9036392714767b9a63e7f2d796a53?quarantineState=evaluating"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "price": 52.99,
+    "color": "#ff3266",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/640px-Adobe_Creative_Cloud_rainbow_icon.svg.png"
+  },
+  {
+    "name": "Microsoft 365",
+    "price": 5.0,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/1862px-Microsoft_365_%282022%29.svg.png",
+    "color": "#727ede"
+  },
+  {
+    "name": "Dropbox Plus",
+    "price": 9.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/640px-Dropbox_Icon.svg.png",
+    "color": "#007ee5"
+  },
+  {
+    "name": "Google Workspace",
+    "price": 6.0,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Google_Workspace_Logo.svg/2560px-Google_Workspace_Logo.svg.png",
+    "color": "red"
+  },
+  {
+    "name": "Zoom Pro",
+    "price": 14.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Zoom_Logo_2022.svg/640px-Zoom_Logo_2022.svg.png",
+    "color": "#035cff"
+  },
+  {
+    "name": "Trello Standard",
+    "price": 5,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trello_logo.jpg/640px-Trello_logo.jpg",
+    "color": "#2b7fae"
+  },
+  {
+    "name": "Slack Pro",
+    "price": 7.25,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/640px-Slack_icon_2019.svg.png",
+    "color": "#2ab77e"
+  },
+  {
+    "name": "Grammarly Premium",
+    "price": 12,
+    "logo": "https://www.grammarly.com/media-resources/grammarlyicon-png",
+    "color": "#34ba96"
+  },
+  {
+    "name": "1Password Individual",
+    "price": 2.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1Password_icon.png/640px-1Password_icon.png",
+    "color": "#0093ea"
+  },
+  {
+    "name": "LastPass Premium",
+    "price": 3.0,
+    "logo": "https://www.malwarebytes.com/blog/news/2022/08/easset_upload_file29791_234597_e.png",
+    "color": "#d32d27"
+  },
+  {
+    "name": "Evernote Personal",
+    "price": 14.99,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Evernote_Faenza.svg/640px-Evernote_Faenza.svg.png",
+    "color": "#b4da82"
+  },
+  {
+    "name": "Notion Plus",
+    "price": 10,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/640px-Notion-logo.svg.png",
+    "color": "#fff"
+  },
+  {
+    "name": "Todoist Premium",
+    "price": 3.0,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Todoist_logo.png?20150923144455",
+    "color": "#e5412e"
+  },
+  {
+    "name": "Asana Premium",
+    "price": 10.99,
+    "logo": "/asana.png",
+    "color": "#f06a6a"
   }
 ]

@@ -12,7 +12,7 @@
 
 <main>
   <section id="intro">
-    <h1>
+    <h1 style="textAlign: center">
       How much <span class="green-text">money</span> I'm losing on subscriptions
       <span style="font-size: 1.5em">💸</span>
     </h1>
@@ -22,23 +22,31 @@
     >
   </section>
 
-  <section class="button-container">
+  <section class="services-container">
     {#each services as service}
       <Button {...service} onClick={(value) => addMoney(value)} />
     {/each}
   </section>
 
-  <footer>
+  <section class="btn-container">
     <a
-      id="linkedIn"
-      href="https://www.linkedin.com/in/carlos-villermosa/"
-      target="_blank">Carlos Villermosa</a
+      class="button-action"
+      target="_blank"
+      href="https://forms.gle/xE3D2sNqmKy3BGVG6">Suggest a service</a
     >
-    <a href="https://twitter.com/carlosviller" target="_blank">
-      <img src="/twitter.svg" alt="Twitter" />
-    </a>
-    <a href="https://github.com/CarlosViller" target="_blank">
-      <img src="/github.svg" alt="Github" />
-    </a>
-  </footer>
+  </section>
 </main>
+
+<footer>
+  <a
+    id="linkedIn"
+    href="https://www.linkedin.com/in/carlos-villermosa/"
+    target="_blank">Carlos Villermosa</a
+  >
+  <a href="https://twitter.com/carlosviller" target="_blank">
+    <img src="/twitter.svg" alt="Twitter" />
+  </a>
+  <a href="https://github.com/CarlosViller" target="_blank">
+    <img src="/github.svg" alt="Github" />
+  </a>
+</footer>
